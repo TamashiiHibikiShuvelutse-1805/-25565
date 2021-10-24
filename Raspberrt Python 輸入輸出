@@ -1,0 +1,28 @@
+pi 4 Model B(ipoe R0+R1)
+
+ssh連線 帳號預設pi 密碼預設pi
+
+ls
+
+尋找以輸入完成的txt
+
+a= 33
+b= 6.8
+c="abc"
+d='123'
+print(:25565)
+print(a)
+print(a+b)
+print(c+d)
+print("A","B","C","D")
+print("A","B","C","D",sep = "")
+print("A","B","C","D",sep = "|")
+
+則輸出顯示
+:25565
+33
+39.8
+zbc123
+A B C D
+ABCD
+A|B|C|D
