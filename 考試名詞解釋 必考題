@@ -98,7 +98,37 @@ RAM
 例如:windows
 在宏核心與微核心之間 進行的一個區塊 但他沒有被稱為架構
 
+Open System Interconnection Model(OSI)
+讓各種電腦互連為網路的標準框架
+中文 開放式系統互聯模型
 
+第七層 應用層
+Application Layer
+提供應用軟體與軟體的通訊
+
+第六層 表達層
+Presentaion
+將數據轉換成系統能接受的格式
+
+第五層 會議層
+Seesion
+兩台電腦之間的互連
+
+第四層 傳輸層
+Transport
+將資料轉換為封包 並且使用通訊協定傳送資訊
+
+第三層 網路層
+Network
+決定數據的路徑和轉寄 形成封包
+
+第二層 資料連結層
+Data Link 
+尋找位置 以及偵錯 當資料變成數據時會形成資訊框
+
+第一層 實體層
+Physical 
+傳送資料框 並且負責 網路跟媒體的溝通
 /*         */
 
 IPS:
