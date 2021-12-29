@@ -1,4 +1,6 @@
-    HTML
+靜態
+
+HTML
   內容
 最新版本(HTML5)
   標籤(TAG):用來顯示網頁上的資訊
@@ -10,9 +12,27 @@
   外觀(彩妝師)
 階層式樣式表(Cascading Style Sheets)
 -------------------
-    JavaScript(跑SERVER)
 動態
+動態網頁是指伺服器通過應用程式伺服器處理伺服器端指令碼而生成的網頁
+
+    JavaScript(跑SERVER)
   行為()
 滑鼠點一下
 
 用途:前端驗證,可以開發伺服器端也能開發客戶端
+
+
+回應式網頁設計（Responsive Web Design)
+
+Bootstrap
+wordPress
+GOOGLE協作平台
+
+
+開發環境(IDE,Integrated Development environment)
+
+網站分析(Web Analytics)
+訪客是那些人
+
+
+XML(Extensible Markup Language)
